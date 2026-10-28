@@ -65,5 +65,9 @@ font-weight: 400;
 }
 .image-credit {
   font-size: 0.75em;
+    
   margin-top: 20px;
+}
+.author {
+    font-size:1em;
 }
